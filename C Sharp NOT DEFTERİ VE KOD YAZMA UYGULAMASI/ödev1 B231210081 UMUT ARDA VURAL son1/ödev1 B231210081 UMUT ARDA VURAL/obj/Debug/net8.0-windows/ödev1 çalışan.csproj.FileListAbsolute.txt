@@ -1,0 +1,90 @@
+C:\Users\umuta\source\repos\ödev1 çalışan\bin\Debug\net8.0-windows\ödev1 çalışan.exe
+C:\Users\umuta\source\repos\ödev1 çalışan\bin\Debug\net8.0-windows\ödev1 çalışan.deps.json
+C:\Users\umuta\source\repos\ödev1 çalışan\bin\Debug\net8.0-windows\ödev1 çalışan.runtimeconfig.json
+C:\Users\umuta\source\repos\ödev1 çalışan\bin\Debug\net8.0-windows\ödev1 çalışan.dll
+C:\Users\umuta\source\repos\ödev1 çalışan\bin\Debug\net8.0-windows\ödev1 çalışan.pdb
+C:\Users\umuta\source\repos\ödev1 çalışan\obj\Debug\net8.0-windows\ödev1_çalışan.Form1.resources
+C:\Users\umuta\source\repos\ödev1 çalışan\obj\Debug\net8.0-windows\ödev1 çalışan.csproj.GenerateResource.cache
+C:\Users\umuta\source\repos\ödev1 çalışan\obj\Debug\net8.0-windows\ödev1 çalışan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umuta\source\repos\ödev1 çalışan\obj\Debug\net8.0-windows\ödev1 çalışan.AssemblyInfoInputs.cache
+C:\Users\umuta\source\repos\ödev1 çalışan\obj\Debug\net8.0-windows\ödev1 çalışan.AssemblyInfo.cs
+C:\Users\umuta\source\repos\ödev1 çalışan\obj\Debug\net8.0-windows\ödev1 çalışan.csproj.CoreCompileInputs.cache
+C:\Users\umuta\source\repos\ödev1 çalışan\obj\Debug\net8.0-windows\ödev1 çalışan.dll
+C:\Users\umuta\source\repos\ödev1 çalışan\obj\Debug\net8.0-windows\refint\ödev1 çalışan.dll
+C:\Users\umuta\source\repos\ödev1 çalışan\obj\Debug\net8.0-windows\ödev1 çalışan.pdb
+C:\Users\umuta\source\repos\ödev1 çalışan\obj\Debug\net8.0-windows\ödev1 çalışan.genruntimeconfig.cache
+C:\Users\umuta\source\repos\ödev1 çalışan\obj\Debug\net8.0-windows\ref\ödev1 çalışan.dll
+C:\Users\umuta\source\repos\ödev1 çalışan\obj\Debug\net8.0-windows\Ödev1_ndp.Form2.resources
+C:\Users\umuta\source\repos\ödev1 çalışan\obj\Debug\net8.0-windows\ödev1_çalışan.Properties.Resources.resources
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\ödev1 çalışan\bin\Debug\net8.0-windows\ödev1 çalışan.exe
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\ödev1 çalışan\bin\Debug\net8.0-windows\ödev1 çalışan.deps.json
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\ödev1 çalışan\bin\Debug\net8.0-windows\ödev1 çalışan.runtimeconfig.json
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\ödev1 çalışan\bin\Debug\net8.0-windows\ödev1 çalışan.dll
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\ödev1 çalışan\bin\Debug\net8.0-windows\ödev1 çalışan.pdb
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\ödev1 çalışan\obj\Debug\net8.0-windows\ödev1_çalışan.Form1.resources
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\ödev1 çalışan\obj\Debug\net8.0-windows\Ödev1_ndp.Form2.resources
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\ödev1 çalışan\obj\Debug\net8.0-windows\ödev1_çalışan.Properties.Resources.resources
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\ödev1 çalışan\obj\Debug\net8.0-windows\ödev1 çalışan.csproj.GenerateResource.cache
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\ödev1 çalışan\obj\Debug\net8.0-windows\ödev1 çalışan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\ödev1 çalışan\obj\Debug\net8.0-windows\ödev1 çalışan.AssemblyInfoInputs.cache
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\ödev1 çalışan\obj\Debug\net8.0-windows\ödev1 çalışan.AssemblyInfo.cs
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\ödev1 çalışan\obj\Debug\net8.0-windows\ödev1 çalışan.csproj.CoreCompileInputs.cache
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\ödev1 çalışan\obj\Debug\net8.0-windows\ödev1 çalışan.dll
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\ödev1 çalışan\obj\Debug\net8.0-windows\refint\ödev1 çalışan.dll
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\ödev1 çalışan\obj\Debug\net8.0-windows\ödev1 çalışan.pdb
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\ödev1 çalışan\obj\Debug\net8.0-windows\ödev1 çalışan.genruntimeconfig.cache
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\ödev1 çalışan\obj\Debug\net8.0-windows\ref\ödev1 çalışan.dll
+C:\Users\umuta\OneDrive\Masaüstü\ödev1 B231210081 UMUT ARDA VURAL\bin\Debug\net8.0-windows\ödev1 çalışan.exe
+C:\Users\umuta\OneDrive\Masaüstü\ödev1 B231210081 UMUT ARDA VURAL\bin\Debug\net8.0-windows\ödev1 çalışan.deps.json
+C:\Users\umuta\OneDrive\Masaüstü\ödev1 B231210081 UMUT ARDA VURAL\bin\Debug\net8.0-windows\ödev1 çalışan.runtimeconfig.json
+C:\Users\umuta\OneDrive\Masaüstü\ödev1 B231210081 UMUT ARDA VURAL\bin\Debug\net8.0-windows\ödev1 çalışan.dll
+C:\Users\umuta\OneDrive\Masaüstü\ödev1 B231210081 UMUT ARDA VURAL\bin\Debug\net8.0-windows\ödev1 çalışan.pdb
+C:\Users\umuta\OneDrive\Masaüstü\ödev1 B231210081 UMUT ARDA VURAL\obj\Debug\net8.0-windows\ödev1_çalışan.Form1.resources
+C:\Users\umuta\OneDrive\Masaüstü\ödev1 B231210081 UMUT ARDA VURAL\obj\Debug\net8.0-windows\Ödev1_ndp.Form2.resources
+C:\Users\umuta\OneDrive\Masaüstü\ödev1 B231210081 UMUT ARDA VURAL\obj\Debug\net8.0-windows\ödev1_çalışan.Properties.Resources.resources
+C:\Users\umuta\OneDrive\Masaüstü\ödev1 B231210081 UMUT ARDA VURAL\obj\Debug\net8.0-windows\ödev1 çalışan.csproj.GenerateResource.cache
+C:\Users\umuta\OneDrive\Masaüstü\ödev1 B231210081 UMUT ARDA VURAL\obj\Debug\net8.0-windows\ödev1 çalışan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umuta\OneDrive\Masaüstü\ödev1 B231210081 UMUT ARDA VURAL\obj\Debug\net8.0-windows\ödev1 çalışan.AssemblyInfoInputs.cache
+C:\Users\umuta\OneDrive\Masaüstü\ödev1 B231210081 UMUT ARDA VURAL\obj\Debug\net8.0-windows\ödev1 çalışan.AssemblyInfo.cs
+C:\Users\umuta\OneDrive\Masaüstü\ödev1 B231210081 UMUT ARDA VURAL\obj\Debug\net8.0-windows\ödev1 çalışan.csproj.CoreCompileInputs.cache
+C:\Users\umuta\OneDrive\Masaüstü\ödev1 B231210081 UMUT ARDA VURAL\obj\Debug\net8.0-windows\ödev1 çalışan.dll
+C:\Users\umuta\OneDrive\Masaüstü\ödev1 B231210081 UMUT ARDA VURAL\obj\Debug\net8.0-windows\refint\ödev1 çalışan.dll
+C:\Users\umuta\OneDrive\Masaüstü\ödev1 B231210081 UMUT ARDA VURAL\obj\Debug\net8.0-windows\ödev1 çalışan.pdb
+C:\Users\umuta\OneDrive\Masaüstü\ödev1 B231210081 UMUT ARDA VURAL\obj\Debug\net8.0-windows\ödev1 çalışan.genruntimeconfig.cache
+C:\Users\umuta\OneDrive\Masaüstü\ödev1 B231210081 UMUT ARDA VURAL\obj\Debug\net8.0-windows\ref\ödev1 çalışan.dll
+C:\Users\umuta\OneDrive\Masaüstü\ödev1 B231210081 UMUT ARDA VURAL son\ödev1 B231210081 UMUT ARDA VURAL\bin\Debug\net8.0-windows\ödev1 çalışan.exe
+C:\Users\umuta\OneDrive\Masaüstü\ödev1 B231210081 UMUT ARDA VURAL son\ödev1 B231210081 UMUT ARDA VURAL\bin\Debug\net8.0-windows\ödev1 çalışan.deps.json
+C:\Users\umuta\OneDrive\Masaüstü\ödev1 B231210081 UMUT ARDA VURAL son\ödev1 B231210081 UMUT ARDA VURAL\bin\Debug\net8.0-windows\ödev1 çalışan.runtimeconfig.json
+C:\Users\umuta\OneDrive\Masaüstü\ödev1 B231210081 UMUT ARDA VURAL son\ödev1 B231210081 UMUT ARDA VURAL\bin\Debug\net8.0-windows\ödev1 çalışan.dll
+C:\Users\umuta\OneDrive\Masaüstü\ödev1 B231210081 UMUT ARDA VURAL son\ödev1 B231210081 UMUT ARDA VURAL\bin\Debug\net8.0-windows\ödev1 çalışan.pdb
+C:\Users\umuta\OneDrive\Masaüstü\ödev1 B231210081 UMUT ARDA VURAL son\ödev1 B231210081 UMUT ARDA VURAL\obj\Debug\net8.0-windows\ödev1_çalışan.Form1.resources
+C:\Users\umuta\OneDrive\Masaüstü\ödev1 B231210081 UMUT ARDA VURAL son\ödev1 B231210081 UMUT ARDA VURAL\obj\Debug\net8.0-windows\Ödev1_ndp.Form2.resources
+C:\Users\umuta\OneDrive\Masaüstü\ödev1 B231210081 UMUT ARDA VURAL son\ödev1 B231210081 UMUT ARDA VURAL\obj\Debug\net8.0-windows\ödev1_çalışan.Properties.Resources.resources
+C:\Users\umuta\OneDrive\Masaüstü\ödev1 B231210081 UMUT ARDA VURAL son\ödev1 B231210081 UMUT ARDA VURAL\obj\Debug\net8.0-windows\ödev1 çalışan.csproj.GenerateResource.cache
+C:\Users\umuta\OneDrive\Masaüstü\ödev1 B231210081 UMUT ARDA VURAL son\ödev1 B231210081 UMUT ARDA VURAL\obj\Debug\net8.0-windows\ödev1 çalışan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umuta\OneDrive\Masaüstü\ödev1 B231210081 UMUT ARDA VURAL son\ödev1 B231210081 UMUT ARDA VURAL\obj\Debug\net8.0-windows\ödev1 çalışan.AssemblyInfoInputs.cache
+C:\Users\umuta\OneDrive\Masaüstü\ödev1 B231210081 UMUT ARDA VURAL son\ödev1 B231210081 UMUT ARDA VURAL\obj\Debug\net8.0-windows\ödev1 çalışan.AssemblyInfo.cs
+C:\Users\umuta\OneDrive\Masaüstü\ödev1 B231210081 UMUT ARDA VURAL son\ödev1 B231210081 UMUT ARDA VURAL\obj\Debug\net8.0-windows\ödev1 çalışan.csproj.CoreCompileInputs.cache
+C:\Users\umuta\OneDrive\Masaüstü\ödev1 B231210081 UMUT ARDA VURAL son\ödev1 B231210081 UMUT ARDA VURAL\obj\Debug\net8.0-windows\ödev1 çalışan.dll
+C:\Users\umuta\OneDrive\Masaüstü\ödev1 B231210081 UMUT ARDA VURAL son\ödev1 B231210081 UMUT ARDA VURAL\obj\Debug\net8.0-windows\refint\ödev1 çalışan.dll
+C:\Users\umuta\OneDrive\Masaüstü\ödev1 B231210081 UMUT ARDA VURAL son\ödev1 B231210081 UMUT ARDA VURAL\obj\Debug\net8.0-windows\ödev1 çalışan.pdb
+C:\Users\umuta\OneDrive\Masaüstü\ödev1 B231210081 UMUT ARDA VURAL son\ödev1 B231210081 UMUT ARDA VURAL\obj\Debug\net8.0-windows\ödev1 çalışan.genruntimeconfig.cache
+C:\Users\umuta\OneDrive\Masaüstü\ödev1 B231210081 UMUT ARDA VURAL son\ödev1 B231210081 UMUT ARDA VURAL\obj\Debug\net8.0-windows\ref\ödev1 çalışan.dll
+C:\Users\umuta\Downloads\ödev1 B231210081 UMUT ARDA VURAL gönderilen\ödev1 B231210081 UMUT ARDA VURAL son1\ödev1 B231210081 UMUT ARDA VURAL\obj\Debug\net8.0-windows\ödev1 çalışan.dll
+C:\Users\umuta\Downloads\ödev1 B231210081 UMUT ARDA VURAL gönderilen\ödev1 B231210081 UMUT ARDA VURAL son1\ödev1 B231210081 UMUT ARDA VURAL\obj\Debug\net8.0-windows\refint\ödev1 çalışan.dll
+C:\Users\umuta\Downloads\ödev1 B231210081 UMUT ARDA VURAL gönderilen\ödev1 B231210081 UMUT ARDA VURAL son1\ödev1 B231210081 UMUT ARDA VURAL\obj\Debug\net8.0-windows\ödev1 çalışan.pdb
+C:\Users\umuta\Downloads\ödev1 B231210081 UMUT ARDA VURAL gönderilen\ödev1 B231210081 UMUT ARDA VURAL son1\ödev1 B231210081 UMUT ARDA VURAL\bin\Debug\net8.0-windows\ödev1 çalışan.exe
+C:\Users\umuta\Downloads\ödev1 B231210081 UMUT ARDA VURAL gönderilen\ödev1 B231210081 UMUT ARDA VURAL son1\ödev1 B231210081 UMUT ARDA VURAL\bin\Debug\net8.0-windows\ödev1 çalışan.deps.json
+C:\Users\umuta\Downloads\ödev1 B231210081 UMUT ARDA VURAL gönderilen\ödev1 B231210081 UMUT ARDA VURAL son1\ödev1 B231210081 UMUT ARDA VURAL\bin\Debug\net8.0-windows\ödev1 çalışan.runtimeconfig.json
+C:\Users\umuta\Downloads\ödev1 B231210081 UMUT ARDA VURAL gönderilen\ödev1 B231210081 UMUT ARDA VURAL son1\ödev1 B231210081 UMUT ARDA VURAL\bin\Debug\net8.0-windows\ödev1 çalışan.dll
+C:\Users\umuta\Downloads\ödev1 B231210081 UMUT ARDA VURAL gönderilen\ödev1 B231210081 UMUT ARDA VURAL son1\ödev1 B231210081 UMUT ARDA VURAL\bin\Debug\net8.0-windows\ödev1 çalışan.pdb
+C:\Users\umuta\Downloads\ödev1 B231210081 UMUT ARDA VURAL gönderilen\ödev1 B231210081 UMUT ARDA VURAL son1\ödev1 B231210081 UMUT ARDA VURAL\obj\Debug\net8.0-windows\ödev1_çalışan.Form1.resources
+C:\Users\umuta\Downloads\ödev1 B231210081 UMUT ARDA VURAL gönderilen\ödev1 B231210081 UMUT ARDA VURAL son1\ödev1 B231210081 UMUT ARDA VURAL\obj\Debug\net8.0-windows\Ödev1_ndp.Form2.resources
+C:\Users\umuta\Downloads\ödev1 B231210081 UMUT ARDA VURAL gönderilen\ödev1 B231210081 UMUT ARDA VURAL son1\ödev1 B231210081 UMUT ARDA VURAL\obj\Debug\net8.0-windows\ödev1_çalışan.Properties.Resources.resources
+C:\Users\umuta\Downloads\ödev1 B231210081 UMUT ARDA VURAL gönderilen\ödev1 B231210081 UMUT ARDA VURAL son1\ödev1 B231210081 UMUT ARDA VURAL\obj\Debug\net8.0-windows\ödev1 çalışan.csproj.GenerateResource.cache
+C:\Users\umuta\Downloads\ödev1 B231210081 UMUT ARDA VURAL gönderilen\ödev1 B231210081 UMUT ARDA VURAL son1\ödev1 B231210081 UMUT ARDA VURAL\obj\Debug\net8.0-windows\ödev1 çalışan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umuta\Downloads\ödev1 B231210081 UMUT ARDA VURAL gönderilen\ödev1 B231210081 UMUT ARDA VURAL son1\ödev1 B231210081 UMUT ARDA VURAL\obj\Debug\net8.0-windows\ödev1 çalışan.AssemblyInfoInputs.cache
+C:\Users\umuta\Downloads\ödev1 B231210081 UMUT ARDA VURAL gönderilen\ödev1 B231210081 UMUT ARDA VURAL son1\ödev1 B231210081 UMUT ARDA VURAL\obj\Debug\net8.0-windows\ödev1 çalışan.AssemblyInfo.cs
+C:\Users\umuta\Downloads\ödev1 B231210081 UMUT ARDA VURAL gönderilen\ödev1 B231210081 UMUT ARDA VURAL son1\ödev1 B231210081 UMUT ARDA VURAL\obj\Debug\net8.0-windows\ödev1 çalışan.csproj.CoreCompileInputs.cache
+C:\Users\umuta\Downloads\ödev1 B231210081 UMUT ARDA VURAL gönderilen\ödev1 B231210081 UMUT ARDA VURAL son1\ödev1 B231210081 UMUT ARDA VURAL\obj\Debug\net8.0-windows\ödev1 çalışan.genruntimeconfig.cache
+C:\Users\umuta\Downloads\ödev1 B231210081 UMUT ARDA VURAL gönderilen\ödev1 B231210081 UMUT ARDA VURAL son1\ödev1 B231210081 UMUT ARDA VURAL\obj\Debug\net8.0-windows\ref\ödev1 çalışan.dll
